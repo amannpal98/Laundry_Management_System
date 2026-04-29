@@ -33,6 +33,7 @@ cleanwave/
 │   ├── App.css             ← Original style.css (unchanged)
 │   └── index.js            ← React entry point
 └── package.json
+
 ```
 
 ---
